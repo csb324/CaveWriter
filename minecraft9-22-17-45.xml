@@ -1,0 +1,4966 @@
+<?xml version="1.0"?>
+<Story>
+  <ObjectRoot>
+    <Object name="-8_-8_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-4.0, -4, -4.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-8_-7_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-4.0, -4, -3.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-8_-6_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-4.0, -4, -3.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-8_-5_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-4.0, -4, -2.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-8_-4_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-4.0, -4, -2.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-8_-3_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-4.0, -4, -1.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-8_-2_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-4.0, -4, -1.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-8_-1_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-4.0, -4, -0.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-8_0_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-4.0, -4, 0.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-8_1_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-4.0, -4, 0.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-8_2_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-4.0, -4, 1.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-8_3_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-4.0, -4, 1.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-8_4_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-4.0, -4, 2.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-8_5_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-4.0, -4, 2.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-8_6_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-4.0, -4, 3.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-8_7_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-4.0, -4, 3.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-8_8_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-4.0, -4, 4.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-7_-8_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-3.5, -4, -4.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-7_-7_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-3.5, -4, -3.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-7_-6_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-3.5, -4, -3.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-7_-5_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-3.5, -4, -2.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-7_-4_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-3.5, -4, -2.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-7_-3_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-3.5, -4, -1.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-7_-2_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-3.5, -4, -1.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-7_-1_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-3.5, -4, -0.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-7_0_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-3.5, -4, 0.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-7_1_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-3.5, -4, 0.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-7_2_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-3.5, -4, 1.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-7_3_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-3.5, -4, 1.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-7_4_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-3.5, -4, 2.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-7_5_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-3.5, -4, 2.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-7_6_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-3.5, -4, 3.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-7_7_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-3.5, -4, 3.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-7_8_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-3.5, -4, 4.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-6_-8_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-3.0, -4, -4.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-6_-7_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-3.0, -4, -3.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-6_-6_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-3.0, -4, -3.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-6_-5_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-3.0, -4, -2.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-6_-4_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-3.0, -4, -2.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-6_-3_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-3.0, -4, -1.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-6_-2_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-3.0, -4, -1.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-6_-1_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-3.0, -4, -0.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-6_0_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-3.0, -4, 0.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-6_1_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-3.0, -4, 0.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-6_2_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-3.0, -4, 1.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-6_3_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-3.0, -4, 1.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-6_4_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-3.0, -4, 2.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-6_5_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-3.0, -4, 2.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-6_6_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-3.0, -4, 3.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-6_7_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-3.0, -4, 3.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-6_8_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-3.0, -4, 4.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-5_-8_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-2.5, -4, -4.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-5_-7_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-2.5, -4, -3.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-5_-6_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-2.5, -4, -3.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-5_-5_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-2.5, -4, -2.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-5_-4_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-2.5, -4, -2.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-5_-3_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-2.5, -4, -1.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-5_-2_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-2.5, -4, -1.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-5_-1_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-2.5, -4, -0.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-5_0_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-2.5, -4, 0.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-5_1_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-2.5, -4, 0.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-5_2_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-2.5, -4, 1.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-5_3_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-2.5, -4, 1.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-5_4_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-2.5, -4, 2.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-5_5_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-2.5, -4, 2.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-5_6_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-2.5, -4, 3.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-5_7_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-2.5, -4, 3.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-5_8_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-2.5, -4, 4.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-4_-8_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-2.0, -4, -4.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-4_-7_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-2.0, -4, -3.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-4_-6_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-2.0, -4, -3.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-4_-5_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-2.0, -4, -2.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-4_-4_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-2.0, -4, -2.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-4_-3_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-2.0, -4, -1.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-4_-2_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-2.0, -4, -1.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-4_-1_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-2.0, -4, -0.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-4_0_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-2.0, -4, 0.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-4_1_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-2.0, -4, 0.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-4_2_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-2.0, -4, 1.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-4_3_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-2.0, -4, 1.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-4_4_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-2.0, -4, 2.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-4_5_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-2.0, -4, 2.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-4_6_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-2.0, -4, 3.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-4_7_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-2.0, -4, 3.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-4_8_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-2.0, -4, 4.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-3_-8_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-1.5, -4, -4.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-3_-7_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-1.5, -4, -3.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-3_-6_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-1.5, -4, -3.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-3_-5_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-1.5, -4, -2.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-3_-4_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-1.5, -4, -2.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-3_-3_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-1.5, -4, -1.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-3_-2_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-1.5, -4, -1.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-3_-1_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-1.5, -4, -0.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-3_0_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-1.5, -4, 0.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-3_1_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-1.5, -4, 0.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-3_2_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-1.5, -4, 1.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-3_3_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-1.5, -4, 1.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-3_4_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-1.5, -4, 2.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-3_5_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-1.5, -4, 2.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-3_6_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-1.5, -4, 3.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-3_7_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-1.5, -4, 3.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-3_8_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-1.5, -4, 4.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-2_-8_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-1.0, -4, -4.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-2_-7_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-1.0, -4, -3.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-2_-6_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-1.0, -4, -3.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-2_-5_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-1.0, -4, -2.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-2_-4_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-1.0, -4, -2.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-2_-3_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-1.0, -4, -1.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-2_-2_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-1.0, -4, -1.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-2_-1_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-1.0, -4, -0.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-2_0_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-1.0, -4, 0.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-2_1_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-1.0, -4, 0.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-2_2_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-1.0, -4, 1.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-2_3_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-1.0, -4, 1.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-2_4_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-1.0, -4, 2.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-2_5_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-1.0, -4, 2.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-2_6_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-1.0, -4, 3.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-2_7_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-1.0, -4, 3.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-2_8_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-1.0, -4, 4.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-1_-8_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-0.5, -4, -4.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-1_-7_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-0.5, -4, -3.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-1_-6_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-0.5, -4, -3.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-1_-5_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-0.5, -4, -2.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-1_-4_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-0.5, -4, -2.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-1_-3_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-0.5, -4, -1.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-1_-2_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-0.5, -4, -1.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-1_-1_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-0.5, -4, -0.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-1_0_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-0.5, -4, 0.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-1_1_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-0.5, -4, 0.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-1_2_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-0.5, -4, 1.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-1_3_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-0.5, -4, 1.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-1_4_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-0.5, -4, 2.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-1_5_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-0.5, -4, 2.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-1_6_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-0.5, -4, 3.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-1_7_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-0.5, -4, 3.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="-1_8_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(-0.5, -4, 4.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="0_-8_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(0.0, -4, -4.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="0_-7_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(0.0, -4, -3.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="0_-6_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(0.0, -4, -3.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="0_-5_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(0.0, -4, -2.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="0_-4_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(0.0, -4, -2.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="0_-3_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(0.0, -4, -1.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="0_-2_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(0.0, -4, -1.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="0_-1_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(0.0, -4, -0.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="0_0_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(0.0, -4, 0.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="0_1_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(0.0, -4, 0.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="0_2_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(0.0, -4, 1.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="0_3_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(0.0, -4, 1.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="0_4_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(0.0, -4, 2.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="0_5_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(0.0, -4, 2.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="0_6_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(0.0, -4, 3.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="0_7_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(0.0, -4, 3.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="0_8_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(0.0, -4, 4.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="1_-8_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(0.5, -4, -4.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="1_-7_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(0.5, -4, -3.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="1_-6_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(0.5, -4, -3.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="1_-5_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(0.5, -4, -2.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="1_-4_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(0.5, -4, -2.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="1_-3_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(0.5, -4, -1.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="1_-2_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(0.5, -4, -1.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="1_-1_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(0.5, -4, -0.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="1_0_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(0.5, -4, 0.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="1_1_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(0.5, -4, 0.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="1_2_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(0.5, -4, 1.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="1_3_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(0.5, -4, 1.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="1_4_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(0.5, -4, 2.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="1_5_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(0.5, -4, 2.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="1_6_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(0.5, -4, 3.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="1_7_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(0.5, -4, 3.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="1_8_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(0.5, -4, 4.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="2_-8_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(1.0, -4, -4.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="2_-7_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(1.0, -4, -3.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="2_-6_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(1.0, -4, -3.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="2_-5_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(1.0, -4, -2.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="2_-4_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(1.0, -4, -2.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="2_-3_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(1.0, -4, -1.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="2_-2_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(1.0, -4, -1.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="2_-1_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(1.0, -4, -0.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="2_0_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(1.0, -4, 0.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="2_1_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(1.0, -4, 0.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="2_2_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(1.0, -4, 1.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="2_3_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(1.0, -4, 1.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="2_4_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(1.0, -4, 2.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="2_5_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(1.0, -4, 2.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="2_6_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(1.0, -4, 3.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="2_7_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(1.0, -4, 3.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="2_8_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(1.0, -4, 4.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="3_-8_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(1.5, -4, -4.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="3_-7_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(1.5, -4, -3.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="3_-6_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(1.5, -4, -3.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="3_-5_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(1.5, -4, -2.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="3_-4_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(1.5, -4, -2.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="3_-3_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(1.5, -4, -1.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="3_-2_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(1.5, -4, -1.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="3_-1_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(1.5, -4, -0.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="3_0_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(1.5, -4, 0.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="3_1_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(1.5, -4, 0.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="3_2_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(1.5, -4, 1.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="3_3_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(1.5, -4, 1.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="3_4_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(1.5, -4, 2.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="3_5_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(1.5, -4, 2.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="3_6_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(1.5, -4, 3.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="3_7_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(1.5, -4, 3.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="3_8_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(1.5, -4, 4.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="4_-8_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(2.0, -4, -4.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="4_-7_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(2.0, -4, -3.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="4_-6_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(2.0, -4, -3.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="4_-5_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(2.0, -4, -2.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="4_-4_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(2.0, -4, -2.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="4_-3_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(2.0, -4, -1.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="4_-2_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(2.0, -4, -1.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="4_-1_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(2.0, -4, -0.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="4_0_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(2.0, -4, 0.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="4_1_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(2.0, -4, 0.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="4_2_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(2.0, -4, 1.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="4_3_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(2.0, -4, 1.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="4_4_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(2.0, -4, 2.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="4_5_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(2.0, -4, 2.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="4_6_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(2.0, -4, 3.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="4_7_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(2.0, -4, 3.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="4_8_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(2.0, -4, 4.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="5_-8_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(2.5, -4, -4.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="5_-7_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(2.5, -4, -3.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="5_-6_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(2.5, -4, -3.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="5_-5_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(2.5, -4, -2.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="5_-4_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(2.5, -4, -2.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="5_-3_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(2.5, -4, -1.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="5_-2_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(2.5, -4, -1.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="5_-1_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(2.5, -4, -0.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="5_0_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(2.5, -4, 0.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="5_1_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(2.5, -4, 0.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="5_2_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(2.5, -4, 1.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="5_3_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(2.5, -4, 1.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="5_4_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(2.5, -4, 2.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="5_5_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(2.5, -4, 2.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="5_6_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(2.5, -4, 3.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="5_7_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(2.5, -4, 3.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="5_8_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(2.5, -4, 4.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="6_-8_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(3.0, -4, -4.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="6_-7_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(3.0, -4, -3.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="6_-6_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(3.0, -4, -3.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="6_-5_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(3.0, -4, -2.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="6_-4_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(3.0, -4, -2.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="6_-3_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(3.0, -4, -1.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="6_-2_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(3.0, -4, -1.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="6_-1_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(3.0, -4, -0.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="6_0_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(3.0, -4, 0.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="6_1_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(3.0, -4, 0.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="6_2_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(3.0, -4, 1.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="6_3_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(3.0, -4, 1.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="6_4_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(3.0, -4, 2.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="6_5_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(3.0, -4, 2.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="6_6_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(3.0, -4, 3.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="6_7_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(3.0, -4, 3.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="6_8_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(3.0, -4, 4.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="7_-8_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(3.5, -4, -4.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="7_-7_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(3.5, -4, -3.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="7_-6_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(3.5, -4, -3.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="7_-5_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(3.5, -4, -2.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="7_-4_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(3.5, -4, -2.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="7_-3_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(3.5, -4, -1.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="7_-2_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(3.5, -4, -1.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="7_-1_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(3.5, -4, -0.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="7_0_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(3.5, -4, 0.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="7_1_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(3.5, -4, 0.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="7_2_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(3.5, -4, 1.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="7_3_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(3.5, -4, 1.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="7_4_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(3.5, -4, 2.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="7_5_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(3.5, -4, 2.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="7_6_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(3.5, -4, 3.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="7_7_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(3.5, -4, 3.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="7_8_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(3.5, -4, 4.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="8_-8_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(4.0, -4, -4.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="8_-7_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(4.0, -4, -3.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="8_-6_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(4.0, -4, -3.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="8_-5_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(4.0, -4, -2.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="8_-4_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(4.0, -4, -2.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="8_-3_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(4.0, -4, -1.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="8_-2_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(4.0, -4, -1.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="8_-1_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(4.0, -4, -0.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="8_0_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(4.0, -4, 0.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="8_1_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(4.0, -4, 0.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="8_2_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(4.0, -4, 1.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="8_3_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(4.0, -4, 1.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="8_4_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(4.0, -4, 2.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="8_5_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(4.0, -4, 2.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="8_6_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(4.0, -4, 3.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="8_7_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(4.0, -4, 3.5)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+    <Object name="8_8_grass">
+      <Color>7, 179, 13</Color>
+      <Visible>true</Visible>
+      <Scale>3</Scale>
+      <Lighting>false</Lighting>
+      <ClickThrough>false</ClickThrough>
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(4.0, -4, 4.0)</Position>
+      </Placement>
+      <Content>
+        <Text horiz-align="center" vert-align="center" font="ALoveofThunder.ttf" depth="30">
+          <text>G</text>
+        </Text>
+      </Content>
+    </Object>
+  </ObjectRoot>
+  <GroupRoot>
+    <Group name="grass">
+      <Objects name="-8_-8_grass"/>
+      <Objects name="-8_-7_grass"/>
+      <Objects name="-8_-6_grass"/>
+      <Objects name="-8_-5_grass"/>
+      <Objects name="-8_-4_grass"/>
+      <Objects name="-8_-3_grass"/>
+      <Objects name="-8_-2_grass"/>
+      <Objects name="-8_-1_grass"/>
+      <Objects name="-8_0_grass"/>
+      <Objects name="-8_1_grass"/>
+      <Objects name="-8_2_grass"/>
+      <Objects name="-8_3_grass"/>
+      <Objects name="-8_4_grass"/>
+      <Objects name="-8_5_grass"/>
+      <Objects name="-8_6_grass"/>
+      <Objects name="-8_7_grass"/>
+      <Objects name="-8_8_grass"/>
+      <Objects name="-7_-8_grass"/>
+      <Objects name="-7_-7_grass"/>
+      <Objects name="-7_-6_grass"/>
+      <Objects name="-7_-5_grass"/>
+      <Objects name="-7_-4_grass"/>
+      <Objects name="-7_-3_grass"/>
+      <Objects name="-7_-2_grass"/>
+      <Objects name="-7_-1_grass"/>
+      <Objects name="-7_0_grass"/>
+      <Objects name="-7_1_grass"/>
+      <Objects name="-7_2_grass"/>
+      <Objects name="-7_3_grass"/>
+      <Objects name="-7_4_grass"/>
+      <Objects name="-7_5_grass"/>
+      <Objects name="-7_6_grass"/>
+      <Objects name="-7_7_grass"/>
+      <Objects name="-7_8_grass"/>
+      <Objects name="-6_-8_grass"/>
+      <Objects name="-6_-7_grass"/>
+      <Objects name="-6_-6_grass"/>
+      <Objects name="-6_-5_grass"/>
+      <Objects name="-6_-4_grass"/>
+      <Objects name="-6_-3_grass"/>
+      <Objects name="-6_-2_grass"/>
+      <Objects name="-6_-1_grass"/>
+      <Objects name="-6_0_grass"/>
+      <Objects name="-6_1_grass"/>
+      <Objects name="-6_2_grass"/>
+      <Objects name="-6_3_grass"/>
+      <Objects name="-6_4_grass"/>
+      <Objects name="-6_5_grass"/>
+      <Objects name="-6_6_grass"/>
+      <Objects name="-6_7_grass"/>
+      <Objects name="-6_8_grass"/>
+      <Objects name="-5_-8_grass"/>
+      <Objects name="-5_-7_grass"/>
+      <Objects name="-5_-6_grass"/>
+      <Objects name="-5_-5_grass"/>
+      <Objects name="-5_-4_grass"/>
+      <Objects name="-5_-3_grass"/>
+      <Objects name="-5_-2_grass"/>
+      <Objects name="-5_-1_grass"/>
+      <Objects name="-5_0_grass"/>
+      <Objects name="-5_1_grass"/>
+      <Objects name="-5_2_grass"/>
+      <Objects name="-5_3_grass"/>
+      <Objects name="-5_4_grass"/>
+      <Objects name="-5_5_grass"/>
+      <Objects name="-5_6_grass"/>
+      <Objects name="-5_7_grass"/>
+      <Objects name="-5_8_grass"/>
+      <Objects name="-4_-8_grass"/>
+      <Objects name="-4_-7_grass"/>
+      <Objects name="-4_-6_grass"/>
+      <Objects name="-4_-5_grass"/>
+      <Objects name="-4_-4_grass"/>
+      <Objects name="-4_-3_grass"/>
+      <Objects name="-4_-2_grass"/>
+      <Objects name="-4_-1_grass"/>
+      <Objects name="-4_0_grass"/>
+      <Objects name="-4_1_grass"/>
+      <Objects name="-4_2_grass"/>
+      <Objects name="-4_3_grass"/>
+      <Objects name="-4_4_grass"/>
+      <Objects name="-4_5_grass"/>
+      <Objects name="-4_6_grass"/>
+      <Objects name="-4_7_grass"/>
+      <Objects name="-4_8_grass"/>
+      <Objects name="-3_-8_grass"/>
+      <Objects name="-3_-7_grass"/>
+      <Objects name="-3_-6_grass"/>
+      <Objects name="-3_-5_grass"/>
+      <Objects name="-3_-4_grass"/>
+      <Objects name="-3_-3_grass"/>
+      <Objects name="-3_-2_grass"/>
+      <Objects name="-3_-1_grass"/>
+      <Objects name="-3_0_grass"/>
+      <Objects name="-3_1_grass"/>
+      <Objects name="-3_2_grass"/>
+      <Objects name="-3_3_grass"/>
+      <Objects name="-3_4_grass"/>
+      <Objects name="-3_5_grass"/>
+      <Objects name="-3_6_grass"/>
+      <Objects name="-3_7_grass"/>
+      <Objects name="-3_8_grass"/>
+      <Objects name="-2_-8_grass"/>
+      <Objects name="-2_-7_grass"/>
+      <Objects name="-2_-6_grass"/>
+      <Objects name="-2_-5_grass"/>
+      <Objects name="-2_-4_grass"/>
+      <Objects name="-2_-3_grass"/>
+      <Objects name="-2_-2_grass"/>
+      <Objects name="-2_-1_grass"/>
+      <Objects name="-2_0_grass"/>
+      <Objects name="-2_1_grass"/>
+      <Objects name="-2_2_grass"/>
+      <Objects name="-2_3_grass"/>
+      <Objects name="-2_4_grass"/>
+      <Objects name="-2_5_grass"/>
+      <Objects name="-2_6_grass"/>
+      <Objects name="-2_7_grass"/>
+      <Objects name="-2_8_grass"/>
+      <Objects name="-1_-8_grass"/>
+      <Objects name="-1_-7_grass"/>
+      <Objects name="-1_-6_grass"/>
+      <Objects name="-1_-5_grass"/>
+      <Objects name="-1_-4_grass"/>
+      <Objects name="-1_-3_grass"/>
+      <Objects name="-1_-2_grass"/>
+      <Objects name="-1_-1_grass"/>
+      <Objects name="-1_0_grass"/>
+      <Objects name="-1_1_grass"/>
+      <Objects name="-1_2_grass"/>
+      <Objects name="-1_3_grass"/>
+      <Objects name="-1_4_grass"/>
+      <Objects name="-1_5_grass"/>
+      <Objects name="-1_6_grass"/>
+      <Objects name="-1_7_grass"/>
+      <Objects name="-1_8_grass"/>
+      <Objects name="0_-8_grass"/>
+      <Objects name="0_-7_grass"/>
+      <Objects name="0_-6_grass"/>
+      <Objects name="0_-5_grass"/>
+      <Objects name="0_-4_grass"/>
+      <Objects name="0_-3_grass"/>
+      <Objects name="0_-2_grass"/>
+      <Objects name="0_-1_grass"/>
+      <Objects name="0_0_grass"/>
+      <Objects name="0_1_grass"/>
+      <Objects name="0_2_grass"/>
+      <Objects name="0_3_grass"/>
+      <Objects name="0_4_grass"/>
+      <Objects name="0_5_grass"/>
+      <Objects name="0_6_grass"/>
+      <Objects name="0_7_grass"/>
+      <Objects name="0_8_grass"/>
+      <Objects name="1_-8_grass"/>
+      <Objects name="1_-7_grass"/>
+      <Objects name="1_-6_grass"/>
+      <Objects name="1_-5_grass"/>
+      <Objects name="1_-4_grass"/>
+      <Objects name="1_-3_grass"/>
+      <Objects name="1_-2_grass"/>
+      <Objects name="1_-1_grass"/>
+      <Objects name="1_0_grass"/>
+      <Objects name="1_1_grass"/>
+      <Objects name="1_2_grass"/>
+      <Objects name="1_3_grass"/>
+      <Objects name="1_4_grass"/>
+      <Objects name="1_5_grass"/>
+      <Objects name="1_6_grass"/>
+      <Objects name="1_7_grass"/>
+      <Objects name="1_8_grass"/>
+      <Objects name="2_-8_grass"/>
+      <Objects name="2_-7_grass"/>
+      <Objects name="2_-6_grass"/>
+      <Objects name="2_-5_grass"/>
+      <Objects name="2_-4_grass"/>
+      <Objects name="2_-3_grass"/>
+      <Objects name="2_-2_grass"/>
+      <Objects name="2_-1_grass"/>
+      <Objects name="2_0_grass"/>
+      <Objects name="2_1_grass"/>
+      <Objects name="2_2_grass"/>
+      <Objects name="2_3_grass"/>
+      <Objects name="2_4_grass"/>
+      <Objects name="2_5_grass"/>
+      <Objects name="2_6_grass"/>
+      <Objects name="2_7_grass"/>
+      <Objects name="2_8_grass"/>
+      <Objects name="3_-8_grass"/>
+      <Objects name="3_-7_grass"/>
+      <Objects name="3_-6_grass"/>
+      <Objects name="3_-5_grass"/>
+      <Objects name="3_-4_grass"/>
+      <Objects name="3_-3_grass"/>
+      <Objects name="3_-2_grass"/>
+      <Objects name="3_-1_grass"/>
+      <Objects name="3_0_grass"/>
+      <Objects name="3_1_grass"/>
+      <Objects name="3_2_grass"/>
+      <Objects name="3_3_grass"/>
+      <Objects name="3_4_grass"/>
+      <Objects name="3_5_grass"/>
+      <Objects name="3_6_grass"/>
+      <Objects name="3_7_grass"/>
+      <Objects name="3_8_grass"/>
+      <Objects name="4_-8_grass"/>
+      <Objects name="4_-7_grass"/>
+      <Objects name="4_-6_grass"/>
+      <Objects name="4_-5_grass"/>
+      <Objects name="4_-4_grass"/>
+      <Objects name="4_-3_grass"/>
+      <Objects name="4_-2_grass"/>
+      <Objects name="4_-1_grass"/>
+      <Objects name="4_0_grass"/>
+      <Objects name="4_1_grass"/>
+      <Objects name="4_2_grass"/>
+      <Objects name="4_3_grass"/>
+      <Objects name="4_4_grass"/>
+      <Objects name="4_5_grass"/>
+      <Objects name="4_6_grass"/>
+      <Objects name="4_7_grass"/>
+      <Objects name="4_8_grass"/>
+      <Objects name="5_-8_grass"/>
+      <Objects name="5_-7_grass"/>
+      <Objects name="5_-6_grass"/>
+      <Objects name="5_-5_grass"/>
+      <Objects name="5_-4_grass"/>
+      <Objects name="5_-3_grass"/>
+      <Objects name="5_-2_grass"/>
+      <Objects name="5_-1_grass"/>
+      <Objects name="5_0_grass"/>
+      <Objects name="5_1_grass"/>
+      <Objects name="5_2_grass"/>
+      <Objects name="5_3_grass"/>
+      <Objects name="5_4_grass"/>
+      <Objects name="5_5_grass"/>
+      <Objects name="5_6_grass"/>
+      <Objects name="5_7_grass"/>
+      <Objects name="5_8_grass"/>
+      <Objects name="6_-8_grass"/>
+      <Objects name="6_-7_grass"/>
+      <Objects name="6_-6_grass"/>
+      <Objects name="6_-5_grass"/>
+      <Objects name="6_-4_grass"/>
+      <Objects name="6_-3_grass"/>
+      <Objects name="6_-2_grass"/>
+      <Objects name="6_-1_grass"/>
+      <Objects name="6_0_grass"/>
+      <Objects name="6_1_grass"/>
+      <Objects name="6_2_grass"/>
+      <Objects name="6_3_grass"/>
+      <Objects name="6_4_grass"/>
+      <Objects name="6_5_grass"/>
+      <Objects name="6_6_grass"/>
+      <Objects name="6_7_grass"/>
+      <Objects name="6_8_grass"/>
+      <Objects name="7_-8_grass"/>
+      <Objects name="7_-7_grass"/>
+      <Objects name="7_-6_grass"/>
+      <Objects name="7_-5_grass"/>
+      <Objects name="7_-4_grass"/>
+      <Objects name="7_-3_grass"/>
+      <Objects name="7_-2_grass"/>
+      <Objects name="7_-1_grass"/>
+      <Objects name="7_0_grass"/>
+      <Objects name="7_1_grass"/>
+      <Objects name="7_2_grass"/>
+      <Objects name="7_3_grass"/>
+      <Objects name="7_4_grass"/>
+      <Objects name="7_5_grass"/>
+      <Objects name="7_6_grass"/>
+      <Objects name="7_7_grass"/>
+      <Objects name="7_8_grass"/>
+      <Objects name="8_-8_grass"/>
+      <Objects name="8_-7_grass"/>
+      <Objects name="8_-6_grass"/>
+      <Objects name="8_-5_grass"/>
+      <Objects name="8_-4_grass"/>
+      <Objects name="8_-3_grass"/>
+      <Objects name="8_-2_grass"/>
+      <Objects name="8_-1_grass"/>
+      <Objects name="8_0_grass"/>
+      <Objects name="8_1_grass"/>
+      <Objects name="8_2_grass"/>
+      <Objects name="8_3_grass"/>
+      <Objects name="8_4_grass"/>
+      <Objects name="8_5_grass"/>
+      <Objects name="8_6_grass"/>
+      <Objects name="8_7_grass"/>
+      <Objects name="8_8_grass"/>
+    </Group>
+  </GroupRoot>
+  <TimelineRoot/>
+  <PlacementRoot>
+    <Placement name="Center">
+      <RelativeTo>Center</RelativeTo>
+      <Position>(0.0, 0.0, 0.0)</Position>
+      <Axis rotation="(0.0, 1.0, 0.0)" angle="0.0"/>
+    </Placement>
+    <Placement name="FrontWall">
+      <RelativeTo>Center</RelativeTo>
+      <Position>(0.0, 0.0, -4.0)</Position>
+      <LookAt target="(0.0, 0.0, 0.0)" up="(0.0, 1.0, 0.0)"/>
+    </Placement>
+    <Placement name="LeftWall">
+      <RelativeTo>Center</RelativeTo>
+      <Position>(-4.0, 0.0, 0.0)</Position>
+      <LookAt target="(0.0, 0.0, 0.0)" up="(0.0, 1.0, 0.0)"/>
+    </Placement>
+    <Placement name="RightWall">
+      <RelativeTo>Center</RelativeTo>
+      <Position>(4.0, 0.0, 0.0)</Position>
+      <LookAt target="(0.0, 0.0, 0.0)" up="(0.0, 1.0, 0.0)"/>
+    </Placement>
+    <Placement name="FloorWall">
+      <RelativeTo>Center</RelativeTo>
+      <Position>(0.0, -4.0, 0.0)</Position>
+      <LookAt target="(0.0, 0.0, 0.0)" up="(0.0, 0.0, -1.0)"/>
+    </Placement>
+  </PlacementRoot>
+  <Global>
+    <CameraPos far-clip="100.0">
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(0.0, 0.0, 0.0)</Position>
+      </Placement>
+    </CameraPos>
+    <CaveCameraPos far-clip="100.0">
+      <Placement>
+        <RelativeTo>Center</RelativeTo>
+        <Position>(0.0, 0.0, 0,0)</Position>
+      </Placement>
+    </CaveCameraPos>
+    <Background color="0, 0, 0"/>
+    <WandNavigation allow-rotation="false" allow-movement="false"/>
+  </Global>
+</Story>
