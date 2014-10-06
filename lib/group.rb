@@ -5,6 +5,7 @@ class Group
   def initialize(name)
     @name = name
     @members = []
+    $project.add_group(self)
   end
 
   def add_member(object)
