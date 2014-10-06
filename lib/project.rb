@@ -4,6 +4,7 @@ require_relative 'wall'
 require_relative 'timeline'
 require_relative 'box_of_text'
 require_relative 'plane'
+require_relative 'light'
 
 class Project
 

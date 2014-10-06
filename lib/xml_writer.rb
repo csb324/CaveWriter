@@ -30,7 +30,7 @@ class XmlWriter
               placement(xml, obj)
 
               xml.Content {
-                if obj.text_content
+                if obj.is_text?
                   xml.Text({
                     "horiz-align" => obj.horiz_align,
                     "vert-align" => obj.vert_align,

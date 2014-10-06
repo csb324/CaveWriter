@@ -8,4 +8,8 @@ class Text < CaveObject
     @text_content, @horiz_align, @vert_align, @font, @depth = text_content, horiz_align, vert_align, font, depth
   end
 
+  def is_text?
+    true
+  end
+
 end

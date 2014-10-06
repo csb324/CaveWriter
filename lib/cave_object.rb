@@ -67,7 +67,14 @@ class CaveObject
     timeline.actions << start_over
 
     timeline
+  end
 
+  def is_text?
+    false
+  end
+
+  def is_light?
+    false
   end
 
 end

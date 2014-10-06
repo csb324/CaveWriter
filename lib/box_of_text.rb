@@ -50,6 +50,12 @@ class BoxOfText
     sides
   end
 
+  def lampshade
+    front
+    back
+    sides
+  end
+
   def top
     top = Plane.new("top_of_box_#{@text}", x1: @x1, x2: @x2, y1: @y2, z1: @z1, z2: @z2, text: @text, scale: @scale, color: @color, density: @density, jitter: @jitter, font: @font)
     @group.add_member(top.group)
