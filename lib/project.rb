@@ -3,6 +3,7 @@ require_relative 'group'
 require_relative 'wall'
 require_relative 'timeline'
 require_relative 'box_of_text'
+require_relative 'plane'
 
 class Project
 
@@ -38,9 +39,18 @@ class Project
     @objects.map(&:name).include?(object_name)
   end
 
+  def has_group(group_name)
+    @groups.map(&:name).include?(group_name)
+  end
+
   def add_group(group)
-    @groups << group
-    group.project = self
+    if has_group(group.name)
+      group.name = group.name + "_cp"
+      add_group(group)
+    else
+      @groups << group
+      group.project = self
+    end
   end
 
   def set_cave_start_position(x: 0, y: 2, z: 6)

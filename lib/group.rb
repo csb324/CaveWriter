@@ -8,9 +8,12 @@ class Group
     $project.add_group(self)
   end
 
-  def add_member(object)
-    @members << object
-    project.add_object(object)
+  def add_member(something)
+    @members << something
+  end
+
+  def is_object
+    false
   end
 
 

@@ -1,5 +1,6 @@
 require_relative 'text'
 require_relative 'group'
+require_relative 'plane'
 
 class BoxOfText
 
@@ -49,133 +50,35 @@ class BoxOfText
     sides
   end
 
-  def triangle
-    if @x1 == @x2
-      x_pos = @x1
-      y_pos = @y1
-      y_units.times do
-        z_pos = @z1
-        z_units.times do
-          if z_pos < ((@z2 - @z1)/(@y2 - @y1) * (y_pos - @y1) + @z1)
-            text = create_text(x: x_pos, y: y_pos, z: z_pos)
-            text.set_rotation(axis: "y", angle: 90) unless @jitter
-            @group.add_member(text)
-          end
-          z_pos += space
-        end
-        y_pos += space
-      end
-
-    elsif @y1 == @y2
-      y_pos = @y1
-      x_pos = @x1
-      x_units.times do
-        z_pos = @z1
-        z_units.times do
-          if z_pos < ((@z2 - @z1)/(@x2 - @x1) * (x_pos - @x1) + @z1)
-            text = create_text(x: x_pos, y: y_pos, z: z_pos)
-            @group.add_member(text)
-          end
-          z_pos += space
-        end
-        x_pos += space
-      end
-
-    elsif @z1 == @z2
-      z_pos = @z1
-      x_pos = @x1
-      x_units.times do
-        y_pos = @y1
-        y_units.times do
-          if y_pos < ((@y2 - @y1)/(@x2 - @x1)*(x_pos - @x1) + @y1)
-            text = create_text(x: x_pos, y: y_pos, z: z_pos)
-            @group.add_member(text)
-          end
-          y_pos += space
-        end
-        x_pos += space
-      end
-
-    else
-      puts "TRIANGLE PROBLEM"
-    end
-  end
-
   def top
-    x_pos = @x1
-    x_units.times do
-      z_pos = @z1
-      z_units.times do
-
-        text = create_text(x: x_pos, y: @y2, z: z_pos)
-        text.set_rotation(axis: "x", angle: -90) unless @jitter
-
-        @group.add_member(text)
-        z_pos += space
-      end
-      x_pos += space
-    end
+    top = Plane.new("top_of_box_#{@text}", x1: @x1, x2: @x2, y1: @y2, z1: @z1, z2: @z2, text: @text, scale: @scale, color: @color, density: @density, jitter: @jitter, font: @font)
+    @group.add_member(top.group)
   end
 
   def bottom
-    x_pos = @x1
-    x_units.times do
-      z_pos = @z1
-      z_units.times do
-        text = create_text(x: x_pos, y: @y1, z: z_pos)
-        @group.add_member(text)
-        z_pos += space
-      end
-      x_pos += space
-    end
+    bottom = Plane.new("bottom_of_box_#{@text}", x1: @x1, x2: @x2, y1: @y1, z1: @z1, z2: @z2, text: @text, scale: @scale, color: @color, density: @density, jitter: @jitter, font: @font)
+    @group.add_member(bottom.group)
   end
 
   def front
-    x_pos = @x1
-    x_units.times do
-      y_pos = @y1
-      y_units.times do
-        text = create_text(x: x_pos, z: @z2, y: y_pos)
-        @group.add_member(text)
-        y_pos += space
-      end
-      x_pos += space
-    end
+    front = Plane.new("front_of_box_#{@text}", x1: @x1, x2: @x2, y1: @y1, y2: @y2, z1: @z2, text: @text, scale: @scale, color: @color, density: @density, jitter: @jitter, font: @font)
+    @group.add_member(front.group)
   end
 
   def back
-    x_pos = @x1
-    x_units.times do
-      y_pos = @y1
-      y_units.times do
-        text = create_text(x: x_pos, z: @z1, y: y_pos)
-        @group.add_member(text)
-        y_pos += space
-      end
-      x_pos += space
-    end
+    back = Plane.new("back_of_box_#{@text}", x1: @x1, x2: @x2, y1: @y1, y2: @y2, z1: @z1, text: @text, scale: @scale, color: @color, density: @density, jitter: @jitter, font: @font)
+    @group.add_member(back.group)
   end
 
   def sides
-    y_pos = @y1
-    y_units.times do
-      z_pos = @z1
-      z_units.times do
-        both_sides = [@x1, @x2]
-
-        both_sides.each do |x|
-          side = create_text(x: x, y: y_pos, z: z_pos)
-          side.set_rotation(axis: "y", angle: 90) unless @jitter
-          @group.add_member(side)
-        end
-
-        z_pos += space
-      end
-      y_pos += space
-    end
+    left = Plane.new("left_side_of_box_#{@text}", x1: @x1, y1: @y1, y2: @y2, z1: @z1, z2: @z2, text: @text, scale: @scale, color: @color, density: @density, jitter: @jitter, font: @font)
+    right = Plane.new("right_side_of_box_#{@text}", x1: @x2, y1: @y1, y2: @y2, z1: @z1, z2: @z2, text: @text, scale: @scale, color: @color, density: @density, jitter: @jitter, font: @font)
+    @group.add_member(left.group)
+    @group.add_member(right.group)
   end
 
   def legs
+    leg_group = Group.new("legs_of_#{text}_box")
     y_pos = @y1
     y_units.times do
       text1 = create_text(x: @x1, y: y_pos, z: @z1)
@@ -186,10 +89,11 @@ class BoxOfText
 
       legs.each do |leg|
         leg.set_rotation(axis: "z", angle: 90) unless @jitter
-        @group.add_member(leg)
+        leg_group.add_member(leg)
       end
       y_pos += space
     end
+    @group.add_member(leg_group)
   end
 
   private
@@ -212,16 +116,8 @@ class BoxOfText
     @scale.to_f / @density
   end
 
-  def x_units
-    ((@x2 - @x1).to_f / space).abs.ceil
-  end
-
   def y_units
     ((@y2 - @y1).to_f / space).abs.ceil
-  end
-
-  def z_units
-    ((@z2 - @z1).to_f / space).abs.ceil
   end
 
 end

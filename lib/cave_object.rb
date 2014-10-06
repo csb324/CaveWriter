@@ -16,6 +16,12 @@ class CaveObject
     )
     @name, @visible, @color, @lighting, @clickthrough, @aroundselfaxis, @scale, @position, @relative_to = name, visible, color, lighting, clickthrough, aroundselfaxis, scale, position, relative_to
     @actions = []
+
+    $project.add_object(self)
+  end
+
+  def is_object
+    true
   end
 
   def set_position(x: 0, y: 0, z: 0)

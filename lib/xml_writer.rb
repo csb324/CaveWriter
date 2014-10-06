@@ -39,6 +39,17 @@ class XmlWriter
                   ) {
                     xml.text_ obj.text_content
                   }
+                elsif obj.is_light?
+                  xml.Light({diffuse: obj.diffuse, specular: obj.specular, const_atten: obj.const_atten, lin_atten: obj.lin_atten, quad_atten: obj.quad_atten}) {
+                    case obj.type
+                    when :point
+                      xml.Point
+                    when :directional
+                      xml.Directional
+                    when :spot
+                      xml.Spot({angle: obj.angle})
+                    end
+                  }
                 end
               }
             }
@@ -50,7 +61,11 @@ class XmlWriter
           @groups.each do |group|
             xml.Group(name: group.name) {
               group.members.each do |member|
-                xml.Objects(name: member.name)
+                if member.is_object
+                  xml.Objects(name: member.name)
+                else
+                  xml.Groups(name: member.name)
+                end
               end
             }
           end

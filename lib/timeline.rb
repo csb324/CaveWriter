@@ -8,6 +8,7 @@ class Timeline
   def initialize(name, start_immediately: true)
     @name, @start_immediately = name, start_immediately
     @actions = []
+    $project.timelines << self
   end
 
   def reset
