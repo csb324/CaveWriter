@@ -153,6 +153,10 @@ class XmlWriter
         xml.MoveRel {
           placement(xml, action)
         }
+      elsif action.type == "move_abs"
+        xml.Movement {
+          placement(xml, action)
+        }
       elsif action.type == "fade"
         xml.Visible action.visible
       end

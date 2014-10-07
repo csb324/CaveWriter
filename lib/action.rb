@@ -38,17 +38,17 @@ class Action
     @rotation[:angle] = angle
   end
 
-  def move_relative(x: 0, y: 0, z: 0)
+  def move_relative(x: 0, y: 0, z: 0, string: nil)
     @type = "move_rel"
 
-    string = "(#{x}, #{y}, #{z})"
+    string = "(#{x}, #{y}, #{z})" unless string
     @position = string
   end
 
-  def move_absolute(x: 0, y: 0, z: 0)
+  def move_absolute(x: 0, y: 0, z: 0, string: nil)
     @type = "move_abs"
 
-    string = "(#{x}, #{y}, #{z})"
+    string = "(#{x}, #{y}, #{z})" unless string
     @position = string
   end
 

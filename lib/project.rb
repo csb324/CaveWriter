@@ -54,6 +54,19 @@ class Project
     end
   end
 
+  def has_timeline(timeline_name)
+    @timelines.map(&:name).include?(timeline_name)
+  end
+
+  def add_timeline(timeline)
+    if has_timeline(timeline.name)
+      timeline.name = timeline.name + "_cp"
+      add_timeline(timeline)
+    else
+      @timelines << timeline
+    end
+  end
+
   def set_cave_start_position(x: 0, y: 2, z: 6)
     string = "(#{x}, #{y}, #{z})"
     @global.cave_start_position = string

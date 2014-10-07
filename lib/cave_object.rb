@@ -69,6 +69,32 @@ class CaveObject
     timeline
   end
 
+  def wobble(start_immediately: true, angle: 50.0, interval: 2, timeline: nil)
+
+    timeline = Timeline.new("#{@name}_wobble") unless timeline
+
+    rotate = Action.new(object: self, duration: interval)
+    random_axis = "(#{(-2..3).to_a.sample}, #{(-2..3).to_a.sample}, #{(-2..3).to_a.sample})"
+    rotate.set_rotation(axis: random_axis, angle: angle)
+    rotate.move_absolute(string: position)
+
+    restore = Action.new(object: self, duration: interval)
+    random_axis = "(#{(-2..3).to_a.sample}, #{(-2..3).to_a.sample}, #{(-2..3).to_a.sample})"
+    restore.set_rotation(axis: random_axis, angle: angle)
+    restore.move_absolute(string: position)
+
+    restore.delay = interval
+
+    start_over = timeline.reset
+    start_over.delay = (interval * 2) - 0.5
+
+    timeline.actions << rotate
+    timeline.actions << restore
+    timeline.actions << start_over
+
+    timeline
+  end
+
   def is_text?
     false
   end

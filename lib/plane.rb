@@ -3,7 +3,7 @@ class Plane
   attr_accessor :x1, :x2, :y1, :y2, :z1, :z2, :text, :scale, :color,
     :density, :jitter, :font, :group
 
-  attr_reader :flatplane, :triangle
+  attr_reader :flatplane, :triangle, :timeline
 
   def initialize(
     name,
@@ -21,6 +21,12 @@ class Plane
       text, scale, color, density, jitter, triangle, font
 
     @group = Group.new(name)
+
+    if @jitter == "wobble"
+      @timeline = Timeline.new("#{@text}_wobble_timeline")
+    else
+      @timeline = nil
+    end
 
     if (x1 && x2)
       if x1 > x2
@@ -148,6 +154,9 @@ class Plane
       word.set_rotation(axis: ["x", "y", "z"].sample, angle: rand(180))
     elsif @jitter == "90degree"
       word.set_rotation(axis: ["x", "y", "z"].sample, angle: [0, 90, 180, 270].sample)
+
+    elsif @jitter == "wobble"
+      word.wobble(timeline: @timeline)
     end
 
     @group.add_member(word)
