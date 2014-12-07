@@ -25,8 +25,8 @@ class Cloud < Text
     set_content(text, font: "omnesbla.ttf")
     set_position(x: rand(18) - 9, y: rand(8) + 6, z: z_position)
 
-    image = Image.new("cloud", file_path: "./cloud.png")
-    image.set_position(x: rand(22) - 11, y: rand(10) + 8, z: z_position - 6)
+    image = Image.new("cloud", file_path: "./cloud.png", scale: 3)
+    image.set_position(x: rand(40) - 20, y: rand(10) + 8, z: z_position - 6)
 
   end
 

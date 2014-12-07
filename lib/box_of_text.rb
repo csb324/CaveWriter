@@ -2,6 +2,8 @@ require_relative 'text'
 require_relative 'group'
 require_relative 'plane'
 
+require 'pry'
+
 class BoxOfText
 
   attr_accessor :x1, :x2, :y1, :y2, :z1, :z2, :text, :scale, :color,
@@ -83,6 +85,15 @@ class BoxOfText
     @group.add_member(right.group)
   end
 
+  def fill
+    z_pos = @z1
+    z_units.times do
+      plane = Plane.new("fill_box_#{@text}_at_#{z_pos}", x1: @x1, x2: @x2, y1: @y1, y2: @y2, z1: z_pos, text: @text, scale: @scale, color: @color, density: @density, jitter: @jitter, font: @font)
+      @group.add_member(plane.group)
+      z_pos += space
+    end
+  end
+
   def legs
     leg_group = Group.new("legs_of_#{text}_box")
     y_pos = @y1
@@ -119,11 +130,18 @@ class BoxOfText
   end
 
   def space
-    @scale.to_f / @density
+    (@scale.to_f / @density).round(3)
+  end
+
+  def x_units
+    ((@x2 - @x1).to_f / space).abs.ceil
   end
 
   def y_units
     ((@y2 - @y1).to_f / space).abs.ceil
   end
 
+  def z_units
+    ((@z2 - @z1).to_f / space).abs.ceil
+  end
 end

@@ -7,9 +7,10 @@ class XmlWriter
     @project = project
     @objects = project.objects.uniq
     @timelines = project.timelines
-    @groups = project.groups
+    @groups = project.groups.select { |group| group.members.length > 0 }
     @global = project.global
     @walls = project.walls
+    @particle_action_lists = project.particle_action_lists
   end
 
   def written_xml
@@ -36,7 +37,7 @@ class XmlWriter
                     "vert-align" => obj.vert_align,
                     "font" => obj.font,
                     "depth" => obj.depth}
-                  ) {
+                    ) {
                     xml.text_ obj.text_content
                   }
                 elsif obj.is_light?
@@ -50,8 +51,39 @@ class XmlWriter
                       xml.Spot({angle: obj.angle})
                     end
                   }
+                elsif obj.is_particle_system?
+                  xml.ParticleSystem({
+                    "max-particles" => obj.max_particles,
+                    "actions-name" => obj.particle_action_list,
+                    "particle-group" => obj.particle_group,
+                    "look-at-camera" => "true",
+                    "sequential" => "false",
+                    "speed" => obj.speed})
+                elsif obj.is_image?
+                  xml.Image({filename: obj.file_path})
                 end
               }
+
+              if obj.link
+                xml.LinkRoot {
+                  xml.Link {
+                    xml.Enabled obj.link.enabled
+                    xml.RemainEnabled obj.link.remain_enabled
+                    xml.EnabledColor obj.link.color
+                    xml.SelectedColor obj.link.selected_color
+                    xml.Actions {
+                      obj.link.actions.each do |link_action|
+                        action_script(xml, link_action[:action])
+                        xml.Clicks {
+                          if link_action[:clicks_needed] == :any
+                            xml.Any
+                          end
+                        }
+                      end
+                    }
+                  }
+                }
+              end
             }
           end
         } # END OF ADDING OBJECTS
@@ -79,21 +111,7 @@ class XmlWriter
               xml.Timeline({"name" => timeline.name, "start-immediately" => timeline.start_immediately}) {
                 timeline.actions.each do |action|
                   xml.TimedActions({"seconds-time" => action.delay}) {
-                    if action.object
-                      xml.ObjectChange(name: action.object.name) {
-                        action_script(xml, action)
-                      }
-                    elsif action.group
-                      xml.GroupRef(name: action.group.name) {
-                        action_script(xml, action)
-                      }
-                    elsif action.timeline
-                      xml.TimerChange(name: action.timeline.name) {
-                        if action.type == "start_timer"
-                          xml.start
-                        end
-                      }
-                    end
+                    action_script(xml, action)
                   }
                 end
               }
@@ -117,6 +135,60 @@ class XmlWriter
             }
           end
         }
+
+        # PARTICLE ACTIONS
+        if @particle_action_lists
+          xml.ParticleActionRoot {
+            @particle_action_lists.each do |list|
+              xml.ParticleActionList(name: list.name) {
+                xml.Source(rate: list.rate) {
+                  xml.ParticleDomain {
+                    if list.source_type == :point
+                      xml.Point(point: list.source_point)
+                    elsif list.source_type == :cylinder
+                      xml.Cylinder({
+                        "p1" => "(0, 0, 0)",
+                        "p2" => list.source_cylinder_p2,
+                        "radius" => list.source_cylinder_radius,
+                        "radius-inner" => list.source_cylinder_inner_radius
+                        })
+                    end
+                  }
+                }
+                xml.Vel {
+                  xml.ParticleDomain {
+                    if list.velocity_type == :line
+                      xml.Line(p1: "(0, 0, 0)", p2: list.velocity_line)
+                    elsif list.velocity_type == :cylinder
+                      xml.Cylinder({
+                        "p1" => "(0, 0, 0)",
+                        "p2" => list.velocity_cylinder_p2,
+                        "radius" => list.velocity_radius,
+                        "radius-inner" => "0"
+                        })
+                    end
+                  }
+                }
+                list.actions.each do |action|
+                  xml.ParticleAction {
+                    if action.type == :bounce
+                      xml.Bounce(friction: action.friction, resilience: action.resilience, cutoff: action.cutoff) {
+                        xml.ParticleDomain {
+                          xml.Plane(point: action.plane_point, normal: action.plane_normal)
+                        }
+                      }
+                    elsif action.type == :gravity
+                      xml.Gravity(direction: action.gravity_direction)
+                    end
+                  }
+                end
+                xml.RemoveCondition {
+                  xml.Age({"age" => list.age, "younger-than" => "false"})
+                }
+              }
+            end
+          }
+        end
 
         # ADDING GLOBAL STUFF
         xml.Global {
@@ -147,7 +219,38 @@ class XmlWriter
     file
   end
 
+
   def action_script(xml, action)
+    if action.object
+      xml.ObjectChange(name: action.object.name) {
+        transition_script(xml, action)
+      }
+    elsif action.group
+      xml.GroupRef(name: action.group.name) {
+        transition_script(xml, action)
+      }
+    elsif action.timeline
+      xml.TimerChange(name: action.timeline.name) {
+        if action.type == "start_timer"
+          xml.start
+        elsif action.type == "stop_timer"
+          xml.stop
+        end
+      }
+    elsif action.type == "move_rel"
+      xml.MoveCave(duration: action.duration) {
+        xml.Relative
+        placement(xml, action)
+      }
+    elsif action.type == "restart"
+      xml.Restart
+    end
+
+
+  end
+
+
+  def transition_script(xml, action)
     xml.Transition(duration: action.duration) {
       if action.type == "move_rel"
         xml.MoveRel {

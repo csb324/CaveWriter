@@ -1,21 +1,29 @@
+require_relative 'actionable'
+require_relative 'link'
+
 class CaveObject
+
+  include Actionable
+
   attr_accessor :name, :visible,
     :color, :lighting, :clickthrough,
     :aroundselfaxis, :scale, :position,
-    :project, :actions, :relative_to, :rotation
+    :project, :actions, :relative_to, :rotation,
+    :link
 
   def initialize(name,
     visible: true,
     color: "255, 255, 255",
     lighting: false,
-    clickthrough: false,
+    clickthrough: true,
     aroundselfaxis: false,
     scale: 1,
     position: "(0, 0, 0)",
-    relative_to: "Center"
-    )
+    relative_to: "Center")
+
     @name, @visible, @color, @lighting, @clickthrough, @aroundselfaxis, @scale, @position, @relative_to = name, visible, color, lighting, clickthrough, aroundselfaxis, scale, position, relative_to
     @actions = []
+    @link = nil
 
     $project.add_object(self)
   end
@@ -41,32 +49,6 @@ class CaveObject
       @rotation[:axis] = axis
     end
     @rotation[:angle] = angle
-  end
-
-  def hide(duration: 0, delay: 0)
-    action = Action.new(object: self, duration: duration)
-    action.fade_out
-    action.delay = delay
-    action
-  end
-
-  def show(duration: 0, delay: 0)
-    action = Action.new(object: self, duration: duration)
-    action.fade_in
-    action.delay = delay
-    action
-  end
-
-  def blink(start_immediately: true, interval: 1)
-    timeline = Timeline.new("#{@name}_blinker")
-    start_over = timeline.reset
-    start_over.delay = 2 * interval
-
-    timeline.actions << hide
-    timeline.actions << show(delay: interval)
-    timeline.actions << start_over
-
-    timeline
   end
 
   def wobble(start_immediately: true, angle: 50.0, interval: 2, timeline: nil)
@@ -95,12 +77,40 @@ class CaveObject
     timeline
   end
 
+
   def is_text?
+    false
+  end
+
+  def is_particle_system?
+    false
+  end
+
+  def is_image?
+    false
+  end
+
+  def is_group
     false
   end
 
   def is_light?
     false
+  end
+
+  def link_start(timeline)
+    @link = Link.new(color: @color)
+    @link.start_timeline(timeline)
+  end
+
+  def add_link(link)
+    @link = link
+    @link.color = @color
+  end
+
+  def restart_on_click
+    @link = Link.new(color: @color)
+    @link.restart_cave_link
   end
 
 end

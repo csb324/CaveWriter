@@ -3,20 +3,18 @@ class Action
   attr_accessor :duration, :delay
   attr_reader :object, :group, :timeline, :type, :position, :visible, :color, :scale, :rotation
 
-  def initialize(object: nil, group: nil, timeline: nil, duration: 1.0)
-    @object, @group, @timeline, @duration = object, group, timeline, duration
-
-    if !@object && !@group && !@timeline
-      puts "PROBLEM"
-      return
-    end
+  def initialize(object: nil, group: nil, timeline: nil, duration: 1.0, delay: 0.0)
+    @object, @group, @timeline, @duration, @delay = object, group, timeline, duration, delay
 
     @object.actions << self if @object
-    @delay = 0.0
   end
 
   def start_timer
     @type = "start_timer"
+  end
+
+  def stop_timer
+    @type = "stop_timer"
   end
 
   def set_rotation(axis:, angle:)
@@ -74,6 +72,23 @@ class Action
 
   def change_link
     puts "aaahhhhhhhh"
+  end
+
+  def move_cave_rel(x: 0, y: 0, z: 0, string: nil)
+    @type = "move_rel"
+    @object = nil
+    @group = nil
+    @timeline = nil
+
+    string = "(#{x}, #{y}, #{z})" unless string
+    @position = string
+  end
+
+  def restart_cave
+    @type = "restart"
+    @object = nil
+    @group = nil
+    @timeline = nil
   end
 
 end

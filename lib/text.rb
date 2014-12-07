@@ -12,4 +12,9 @@ class Text < CaveObject
     true
   end
 
+  def feet_deep=(number)
+    target = number * 220
+    @depth = target / @scale
+  end
+
 end

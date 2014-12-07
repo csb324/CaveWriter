@@ -164,7 +164,7 @@ class Plane
   end
 
   def space
-    @scale.to_f / @density
+    (@scale.to_f / @density).round(3)
   end
 
   def x_units

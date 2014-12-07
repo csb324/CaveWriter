@@ -9,19 +9,20 @@ class MysteryBox
 
     text_content_options = [
       "ballet classes",
-      "learn to read before any of your friends",
+      "learn to read\nbefore any of\nyour friends",
       "piano lessons",
-      "'gifted and talented'",
-      "hold a charity lemonade stand",
-      "memorize your multiplication tables",
+      "'gifted and\ntalented'",
+      "hold a charity\nlemonade stand",
+      "memorize your\nmultiplication\ntables",
       "math club",
-      "after school pottery class",
+      "after school\npottery class",
       "youth basketball MVP",
-      "honors math",
       "guitar lessons",
       "cotillion",
-      "perform in the school talent show",
-      "take latin"
+      "perform in\nthe school\ntalent show",
+      "take latin",
+      "prestigious\nsummer program",
+      "you are\n'precocious'"
     ]
 
     @box = Text.new("mystery", color: "255, 152, 78", scale: 10)

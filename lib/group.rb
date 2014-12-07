@@ -1,4 +1,8 @@
+require_relative 'actionable'
+
 class Group
+
+  include Actionable
 
   attr_accessor :name, :members, :project
 
@@ -16,5 +20,8 @@ class Group
     false
   end
 
+  def is_group
+    true
+  end
 
 end
