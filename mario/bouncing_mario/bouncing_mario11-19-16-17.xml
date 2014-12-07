@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?jaxfront version=2.1;time=2014-11-19 16:17:19.331;xui=jar:file:/Users/clarabeyer/Documents/fall14/CaveWriting/CWEditor.jar!/schema/caveschema.xui;xsd=caveschema.xsd?>
+<Story version="8" last_xpath="/Story
+">
+       <ObjectRoot>
+              <Object name="dirt_0">
+                     <Visible>true</Visible>
+                     <Color>200,76,12</Color>
+                     <Lighting>false</Lighting>
+                     <ClickThrough>true</ClickThrough>
+                     <AroundSelfAxis>false</AroundSelfAxis>
+                     <Scale>100</Scale>
+                     <Placement>
+                            <RelativeTo>Center</RelativeTo>
+                            <Position>(0, -6.5, 0)</Position>
+                     </Placement>
+                     <Content>
+                            <Text horiz-align="center" vert-align="center" font="Courier.ttf" depth="308">
+                                   <text>-</text>
+                            </Text>
+                     </Content>
+              </Object>
+              <Object name="hill">
+                     <Visible>true</Visible>
+                     <Color>153, 255, 102</Color>
+                     <Lighting>false</Lighting>
+                     <ClickThrough>true</ClickThrough>
+                     <AroundSelfAxis>false</AroundSelfAxis>
+                     <Scale>1.5</Scale>
+                     <Placement>
+                            <RelativeTo>Center</RelativeTo>
+                            <Position>(-4, -3, 0)</Position>
+                                   <Axis rotation="(0, 1, 0)" angle="90"/>
+                     </Placement>
+                     <Content>
+                            <Text horiz-align="center" vert-align="center" font="Courier.ttf" depth="1">
+                                   <text>words word
+s words words g
+o to class do school
+ be good at life and thin</text>
+                            </Text>
+                     </Content>
+              </Object>
+              <Object name="hill_cp1">
+                     <Visible>true</Visible>
+                     <Color>153, 255, 102</Color>
+                     <Lighting>false</Lighting>
+                     <ClickThrough>true</ClickThrough>
+                     <AroundSelfAxis>false</AroundSelfAxis>
+                     <Scale>1.5</Scale>
+                     <Placement>
+                            <RelativeTo>Center</RelativeTo>
+                            <Position>(4, -3, 0)</Position>
+                                   <Axis rotation="(0, 1, 0)" angle="-90"/>
+                     </Placement>
+                     <Content>
+                            <Text horiz-align="center" vert-align="center" font="Courier.ttf" depth="1">
+                                   <text>This h
+ill is sm
+aller and go
+es on the other</text>
+                            </Text>
+                     </Content>
+              </Object>
+              <Object name="light">
+                     <Visible>true</Visible>
+                     <Color>255, 255, 255</Color>
+                     <Lighting>false</Lighting>
+                     <ClickThrough>false</ClickThrough>
+                     <AroundSelfAxis>false</AroundSelfAxis>
+                     <Scale>1</Scale>
+                     <Placement>
+                            <RelativeTo>Center</RelativeTo>
+                            <Position>(0, 0, 0)</Position>
+                     </Placement>
+                     <Content>
+                            <Light diffuse="true" specular="true" const_atten="1" lin_atten="1" quad_atten="0">
+                                   <Point/>
+                            </Light>
+                     </Content>
+              </Object>
+              <Object name="BEGIN_0">
+                     <Visible>true</Visible>
+                     <Color>255, 255, 255</Color>
+                     <Lighting>false</Lighting>
+                     <ClickThrough>true</ClickThrough>
+                     <AroundSelfAxis>false</AroundSelfAxis>
+                     <Scale>1</Scale>
+                     <Placement>
+                            <RelativeTo>Center</RelativeTo>
+                            <Position>(0, 1, -4)</Position>
+                     </Placement>
+                     <Content>
+                            <Text horiz-align="center" vert-align="center" font="PressStart2P.ttf" depth="1">
+                                   <text>BEGIN</text>
+                            </Text>
+                     </Content>
+                     <LinkRoot>
+                            <Link>
+                                   <Enabled>true</Enabled>
+                                   <RemainEnabled>true</RemainEnabled>
+                                   <EnabledColor>255, 255, 255</EnabledColor>
+                                   <SelectedColor>255, 255, 255</SelectedColor>
+                                   <Actions>
+                                                 <TimerChange name="START_EVERYTHING">
+                                                        <start/>
+                                                 </TimerChange>
+                                          <Clicks>
+                                                 <Any/>
+                                          </Clicks>
+                                   </Actions>
+                            </Link>
+                     </LinkRoot>
+              </Object>
+              <Object name="RUN_1">
+                     <Visible>true</Visible>
+                     <Color>255, 255, 255</Color>
+                     <Lighting>false</Lighting>
+                     <ClickThrough>true</ClickThrough>
+                     <AroundSelfAxis>false</AroundSelfAxis>
+                     <Scale>1</Scale>
+                     <Placement>
+                            <RelativeTo>Center</RelativeTo>
+                            <Position>(-1, 1, -4)</Position>
+                     </Placement>
+                     <Content>
+                            <Text horiz-align="center" vert-align="center" font="PressStart2P.ttf" depth="1">
+                                   <text>RUN</text>
+                            </Text>
+                     </Content>
+                     <LinkRoot>
+                            <Link>
+                                   <Enabled>true</Enabled>
+                                   <RemainEnabled>true</RemainEnabled>
+                                   <EnabledColor>255, 255, 255</EnabledColor>
+                                   <SelectedColor>255, 255, 255</SelectedColor>
+                                   <Actions>
+                                                 <TimerChange name="running1">
+                                                        <start/>
+                                                 </TimerChange>
+                                          <Clicks>
+                                                 <Any/>
+                                          </Clicks>
+                                   </Actions>
+                            </Link>
+                     </LinkRoot>
+              </Object>
+              <Object name="or_1">
+                     <Visible>true</Visible>
+                     <Color>255, 255, 255</Color>
+                     <Lighting>false</Lighting>
+                     <ClickThrough>true</ClickThrough>
+                     <AroundSelfAxis>false</AroundSelfAxis>
+                     <Scale>1</Scale>
+                     <Placement>
+                            <RelativeTo>Center</RelativeTo>
+                            <Position>(0, 1, -4)</Position>
+                     </Placement>
+                     <Content>
+                            <Text horiz-align="center" vert-align="center" font="PressStart2P.ttf" depth="1">
+                                   <text>OR</text>
+                            </Text>
+                     </Content>
+              </Object>
+              <Object name="JUMP_1">
+                     <Visible>true</Visible>
+                     <Color>255, 255, 255</Color>
+                     <Lighting>false</Lighting>
+                     <ClickThrough>true</ClickThrough>
+                     <AroundSelfAxis>false</AroundSelfAxis>
+                     <Scale>1</Scale>
+                     <Placement>
+                            <RelativeTo>Center</RelativeTo>
+                            <Position>(1, 1, -4)</Position>
+                     </Placement>
+                     <Content>
+                            <Text horiz-align="center" vert-align="center" font="PressStart2P.ttf" depth="1">
+                                   <text>JUMP</text>
+                            </Text>
+                     </Content>
+                     <LinkRoot>
+                            <Link>
+                                   <Enabled>true</Enabled>
+                                   <RemainEnabled>true</RemainEnabled>
+                                   <EnabledColor>255, 255, 255</EnabledColor>
+                                   <SelectedColor>255, 255, 255</SelectedColor>
+                                   <Actions>
+                                                 <TimerChange name="jumping2">
+                                                        <start/>
+                                                 </TimerChange>
+                                          <Clicks>
+                                                 <Any/>
+                                          </Clicks>
+                                   </Actions>
+                            </Link>
+                     </LinkRoot>
+              </Object>
+              <Object name="bricks_1">
+                     <Visible>true</Visible>
+                     <Color>204,74,33</Color>
+                     <Lighting>false</Lighting>
+                     <ClickThrough>true</ClickThrough>
+                     <AroundSelfAxis>false</AroundSelfAxis>
+                     <Scale>10</Scale>
+                     <Placement>
+                            <RelativeTo>Center</RelativeTo>
+                            <Position>(0, 8, -38)</Position>
+                     </Placement>
+                     <Content>
+                            <Text horiz-align="center" vert-align="center" font="Wingdings.ttf" depth="44">
+                                   <text>x</text>
+                            </Text>
+                     </Content>
+              </Object>
+              <Object name="mystery">
+                     <Visible>true</Visible>
+                     <Color>255, 152, 78</Color>
+                     <Lighting>false</Lighting>
+                     <ClickThrough>true</ClickThrough>
+                     <AroundSelfAxis>false</AroundSelfAxis>
+                     <Scale>10</Scale>
+                     <Placement>
+                            <RelativeTo>Center</RelativeTo>
+                            <Position>(0, 8, -40)</Position>
+                     </Placement>
+                     <Content>
+                            <Text horiz-align="center" vert-align="center" font="Courier.ttf" depth="44">
+                                   <text>?</text>
+                            </Text>
+                     </Content>
+              </Object>
+              <Object name="box">
+                     <Visible>false</Visible>
+                     <Color>255, 255, 255</Color>
+                     <Lighting>false</Lighting>
+                     <ClickThrough>true</ClickThrough>
+                     <AroundSelfAxis>false</AroundSelfAxis>
+                     <Scale>1</Scale>
+                     <Placement>
+                            <RelativeTo>Center</RelativeTo>
+                            <Position>(0, 8, -40)</Position>
+                     </Placement>
+                     <Content>
+                            <ParticleSystem max-particles="1" actions-name="listtt" particle-group="bounce_group" look-at-camera="true" sequential="false" speed="1.0"/>
+                     </Content>
+              </Object>
+              <Object name="bouncing_text">
+                     <Visible>false</Visible>
+                     <Color>255, 255, 255</Color>
+                     <Lighting>false</Lighting>
+                     <ClickThrough>true</ClickThrough>
+                     <AroundSelfAxis>false</AroundSelfAxis>
+                     <Scale>1</Scale>
+                     <Placement>
+                            <RelativeTo>Center</RelativeTo>
+                            <Position>(0, 0, 0)</Position>
+                     </Placement>
+                     <Content>
+                            <Text horiz-align="center" vert-align="center" font="Courier.ttf" depth="1">
+                                   <text>hey</text>
+                            </Text>
+                     </Content>
+              </Object>
+              <Object name="bricks_2">
+                     <Visible>true</Visible>
+                     <Color>204,74,33</Color>
+                     <Lighting>false</Lighting>
+                     <ClickThrough>true</ClickThrough>
+                     <AroundSelfAxis>false</AroundSelfAxis>
+                     <Scale>10</Scale>
+                     <Placement>
+                            <RelativeTo>Center</RelativeTo>
+                            <Position>(0, 8, -42)</Position>
+                     </Placement>
+                     <Content>
+                            <Text horiz-align="center" vert-align="center" font="Wingdings.ttf" depth="44">
+                                   <text>x</text>
+                            </Text>
+                     </Content>
+              </Object>
+              <Object name="RUN_2">
+                     <Visible>true</Visible>
+                     <Color>255, 255, 255</Color>
+                     <Lighting>false</Lighting>
+                     <ClickThrough>true</ClickThrough>
+                     <AroundSelfAxis>false</AroundSelfAxis>
+                     <Scale>1</Scale>
+                     <Placement>
+                            <RelativeTo>Center</RelativeTo>
+                            <Position>(-1, 1, -4)</Position>
+                     </Placement>
+                     <Content>
+                            <Text horiz-align="center" vert-align="center" font="PressStart2P.ttf" depth="1">
+                                   <text>RUN</text>
+                            </Text>
+                     </Content>
+                     <LinkRoot>
+                            <Link>
+                                   <Enabled>true</Enabled>
+                                   <RemainEnabled>true</RemainEnabled>
+                                   <EnabledColor>255, 255, 255</EnabledColor>
+                                   <SelectedColor>255, 255, 255</SelectedColor>
+                                   <Actions>
+                                                 <TimerChange name="running3">
+                                                        <start/>
+                                                 </TimerChange>
+                                          <Clicks>
+                                                 <Any/>
+                                          </Clicks>
+                                   </Actions>
+                            </Link>
+                     </LinkRoot>
+              </Object>
+              <Object name="or_2">
+                     <Visible>true</Visible>
+                     <Color>255, 255, 255</Color>
+                     <Lighting>false</Lighting>
+                     <ClickThrough>true</ClickThrough>
+                     <AroundSelfAxis>false</AroundSelfAxis>
+                     <Scale>1</Scale>
+                     <Placement>
+                            <RelativeTo>Center</RelativeTo>
+                            <Position>(0, 1, -4)</Position>
+                     </Placement>
+                     <Content>
+                            <Text horiz-align="center" vert-align="center" font="PressStart2P.ttf" depth="1">
+                                   <text>OR</text>
+                            </Text>
+                     </Content>
+              </Object>
+              <Object name="JUMP_2">
+                     <Visible>true</Visible>
+                     <Color>255, 255, 255</Color>
+                     <Lighting>false</Lighting>
+                     <ClickThrough>true</ClickThrough>
+                     <AroundSelfAxis>false</AroundSelfAxis>
+                     <Scale>1</Scale>
+                     <Placement>
+                            <RelativeTo>Center</RelativeTo>
+                            <Position>(1, 1, -4)</Position>
+                     </Placement>
+                     <Content>
+                            <Text horiz-align="center" vert-align="center" font="PressStart2P.ttf" depth="1">
+                                   <text>JUMP</text>
+                            </Text>
+                     </Content>
+                     <LinkRoot>
+                            <Link>
+                                   <Enabled>true</Enabled>
+                                   <RemainEnabled>true</RemainEnabled>
+                                   <EnabledColor>255, 255, 255</EnabledColor>
+                                   <SelectedColor>255, 255, 255</SelectedColor>
+                                   <Actions>
+                                                 <TimerChange name="jumping4">
+                                                        <start/>
+                                                 </TimerChange>
+                                          <Clicks>
+                                                 <Any/>
+                                          </Clicks>
+                                   </Actions>
+                            </Link>
+                     </LinkRoot>
+              </Object>
+       </ObjectRoot>
+       <GroupRoot>
+              <Group name="button_group_0">
+                            <Objects name="BEGIN_0"/>
+              </Group>
+              <Group name="button_group_0_cp2">
+                            <Objects name="RUN_1"/>
+                            <Objects name="or_1"/>
+                            <Objects name="JUMP_1"/>
+              </Group>
+              <Group name="button_group_0_cp3">
+                            <Objects name="RUN_2"/>
+                            <Objects name="or_2"/>
+                            <Objects name="JUMP_2"/>
+              </Group>
+              <Group name="bounce_group">
+                            <Objects name="bouncing_text"/>
+              </Group>
+       </GroupRoot>
+       <TimelineRoot>
+              <Timeline name="initial" start-immediately="true"></Timeline>
+              <Timeline name="hide_all_buttons" start-immediately="true">
+                     <TimedActions seconds-time="0">
+                            <GroupRef name="button_group_0_cp2">
+                                   <Transition duration="0">
+                                          <Visible>false</Visible>
+                                   </Transition>
+                            </GroupRef>
+                     </TimedActions>
+                     <TimedActions seconds-time="0">
+                            <GroupRef name="button_group_0_cp3">
+                                   <Transition duration="0">
+                                          <Visible>false</Visible>
+                                   </Transition>
+                            </GroupRef>
+                     </TimedActions>
+                     <TimedActions seconds-time="0">
+                            <GroupRef name="button_group_0_cp4">
+                                   <Transition duration="0">
+                                          <Visible>false</Visible>
+                                   </Transition>
+                            </GroupRef>
+                     </TimedActions>
+                     <TimedActions seconds-time="0">
+                            <GroupRef name="button_group_0_cp5">
+                                   <Transition duration="0">
+                                          <Visible>false</Visible>
+                                   </Transition>
+                            </GroupRef>
+                     </TimedActions>
+                     <TimedActions seconds-time="0">
+                            <GroupRef name="button_group_0_cp6">
+                                   <Transition duration="0">
+                                          <Visible>false</Visible>
+                                   </Transition>
+                            </GroupRef>
+                     </TimedActions>
+                     <TimedActions seconds-time="0">
+                            <GroupRef name="button_group_0_cp7">
+                                   <Transition duration="0">
+                                          <Visible>false</Visible>
+                                   </Transition>
+                            </GroupRef>
+                     </TimedActions>
+                     <TimedActions seconds-time="0">
+                            <GroupRef name="button_group_0_cp8">
+                                   <Transition duration="0">
+                                          <Visible>false</Visible>
+                                   </Transition>
+                            </GroupRef>
+                     </TimedActions>
+                     <TimedActions seconds-time="0">
+                            <GroupRef name="button_group_0_cp9">
+                                   <Transition duration="0">
+                                          <Visible>false</Visible>
+                                   </Transition>
+                            </GroupRef>
+                     </TimedActions>
+                     <TimedActions seconds-time="0">
+                            <GroupRef name="button_group_0_cp10">
+                                   <Transition duration="0">
+                                          <Visible>false</Visible>
+                                   </Transition>
+                            </GroupRef>
+                     </TimedActions>
+              </Timeline>
+              <Timeline name="START_EVERYTHING" start-immediately="false">
+                     <TimedActions seconds-time="0">
+                            <GroupRef name="button_group_0">
+                                   <Transition duration="0">
+                                          <Visible>false</Visible>
+                                   </Transition>
+                            </GroupRef>
+                     </TimedActions>
+                     <TimedActions seconds-time="1.0">
+                            <GroupRef name="button_group_0_cp2">
+                                   <Transition duration="0">
+                                          <Visible>true</Visible>
+                                   </Transition>
+                            </GroupRef>
+                     </TimedActions>
+              </Timeline>
+              <Timeline name="running1" start-immediately="false">
+                     <TimedActions seconds-time="0.0">
+                            <MoveCave duration="3.6">
+                                          <Relative/>
+                                   <Placement>
+                                          <RelativeTo>Center</RelativeTo>
+                                          <Position>(0, 0, -36)</Position>
+                                   </Placement>
+                            </MoveCave>
+                     </TimedActions>
+                     <TimedActions seconds-time="0">
+                            <GroupRef name="button_group_0_cp2">
+                                   <Transition duration="0">
+                                          <Visible>false</Visible>
+                                   </Transition>
+                            </GroupRef>
+                     </TimedActions>
+                     <TimedActions seconds-time="0.0">
+                            <ObjectChange name="light">
+                                   <Transition duration="3.6">
+                                          <MoveRel>
+                                                 <Placement>
+                                                        <RelativeTo>Center</RelativeTo>
+                                                        <Position>(0, 0, -36)</Position>
+                                                 </Placement>
+                                          </MoveRel>
+                                   </Transition>
+                            </ObjectChange>
+                     </TimedActions>
+                     <TimedActions seconds-time="0.0">
+                            <GroupRef name="button_group_0">
+                                   <Transition duration="0">
+                                          <MoveRel>
+                                                 <Placement>
+                                                        <RelativeTo>Center</RelativeTo>
+                                                        <Position>(0, 0, -36)</Position>
+                                                 </Placement>
+                                          </MoveRel>
+                                   </Transition>
+                            </GroupRef>
+                     </TimedActions>
+                     <TimedActions seconds-time="0.0">
+                            <GroupRef name="button_group_0_cp2">
+                                   <Transition duration="0">
+                                          <MoveRel>
+                                                 <Placement>
+                                                        <RelativeTo>Center</RelativeTo>
+                                                        <Position>(0, 0, -36)</Position>
+                                                 </Placement>
+                                          </MoveRel>
+                                   </Transition>
+                            </GroupRef>
+                     </TimedActions>
+                     <TimedActions seconds-time="0.0">
+                            <GroupRef name="button_group_0_cp3">
+                                   <Transition duration="0">
+                                          <MoveRel>
+                                                 <Placement>
+                                                        <RelativeTo>Center</RelativeTo>
+                                                        <Position>(0, 0, -36)</Position>
+                                                 </Placement>
+                                          </MoveRel>
+                                   </Transition>
+                            </GroupRef>
+                     </TimedActions>
+                     <TimedActions seconds-time="0.0">
+                            <GroupRef name="button_group_0_cp4">
+                                   <Transition duration="0">
+                                          <MoveRel>
+                                                 <Placement>
+                                                        <RelativeTo>Center</RelativeTo>
+                                                        <Position>(0, 0, -36)</Position>
+                                                 </Placement>
+                                          </MoveRel>
+                                   </Transition>
+                            </GroupRef>
+                     </TimedActions>
+                     <TimedActions seconds-time="0.0">
+                            <GroupRef name="button_group_0_cp5">
+                                   <Transition duration="0">
+                                          <MoveRel>
+                                                 <Placement>
+                                                        <RelativeTo>Center</RelativeTo>
+                                                        <Position>(0, 0, -36)</Position>
+                                                 </Placement>
+                                          </MoveRel>
+                                   </Transition>
+                            </GroupRef>
+                     </TimedActions>
+                     <TimedActions seconds-time="0.0">
+                            <GroupRef name="button_group_0_cp6">
+                                   <Transition duration="0">
+                                          <MoveRel>
+                                                 <Placement>
+                                                        <RelativeTo>Center</RelativeTo>
+                                                        <Position>(0, 0, -36)</Position>
+                                                 </Placement>
+                                          </MoveRel>
+                                   </Transition>
+                            </GroupRef>
+                     </TimedActions>
+                     <TimedActions seconds-time="0.0">
+                            <GroupRef name="button_group_0_cp7">
+                                   <Transition duration="0">
+                                          <MoveRel>
+                                                 <Placement>
+                                                        <RelativeTo>Center</RelativeTo>
+                                                        <Position>(0, 0, -36)</Position>
+                                                 </Placement>
+                                          </MoveRel>
+                                   </Transition>
+                            </GroupRef>
+                     </TimedActions>
+                     <TimedActions seconds-time="0.0">
+                            <GroupRef name="button_group_0_cp8">
+                                   <Transition duration="0">
+                                          <MoveRel>
+                                                 <Placement>
+                                                        <RelativeTo>Center</RelativeTo>
+                                                        <Position>(0, 0, -36)</Position>
+                                                 </Placement>
+                                          </MoveRel>
+                                   </Transition>
+                            </GroupRef>
+                     </TimedActions>
+                     <TimedActions seconds-time="0.0">
+                            <GroupRef name="button_group_0_cp9">
+                                   <Transition duration="0">
+                                          <MoveRel>
+                                                 <Placement>
+                                                        <RelativeTo>Center</RelativeTo>
+                                                        <Position>(0, 0, -36)</Position>
+                                                 </Placement>
+                                          </MoveRel>
+                                   </Transition>
+                            </GroupRef>
+                     </TimedActions>
+                     <TimedActions seconds-time="0.0">
+                            <GroupRef name="button_group_0_cp10">
+                                   <Transition duration="0">
+                                          <MoveRel>
+                                                 <Placement>
+                                                        <RelativeTo>Center</RelativeTo>
+                                                        <Position>(0, 0, -36)</Position>
+                                                 </Placement>
+                                          </MoveRel>
+                                   </Transition>
+                            </GroupRef>
+                     </TimedActions>
+                     <TimedActions seconds-time="3.6">
+                            <GroupRef name="button_group_0_cp3">
+                                   <Transition duration="0">
+                                          <Visible>true</Visible>
+                                   </Transition>
+                            </GroupRef>
+                     </TimedActions>
+              </Timeline>
+              <Timeline name="jumping2" start-immediately="false">
+                     <TimedActions seconds-time="0.0">
+                            <MoveCave duration="1.0">
+                                          <Relative/>
+                                   <Placement>
+                                          <RelativeTo>Center</RelativeTo>
+                                          <Position>(0, 5, 0)</Position>
+                                   </Placement>
+                            </MoveCave>
+                     </TimedActions>
+                     <TimedActions seconds-time="1.0">
+                            <MoveCave duration="1.0">
+                                          <Relative/>
+                                   <Placement>
+                                          <RelativeTo>Center</RelativeTo>
+                                          <Position>(0, -5, 0)</Position>
+                                   </Placement>
+                            </MoveCave>
+                     </TimedActions>
+                     <TimedActions seconds-time="0">
+                            <GroupRef name="button_group_0_cp2">
+                                   <Transition duration="0">
+                                          <Visible>false</Visible>
+                                   </Transition>
+                            </GroupRef>
+                     </TimedActions>
+                     <TimedActions seconds-time="2.0">
+                            <GroupRef name="button_group_0_cp2">
+                                   <Transition duration="0">
+                                          <Visible>true</Visible>
+                                   </Transition>
+                            </GroupRef>
+                     </TimedActions>
+              </Timeline>
+              <Timeline name="running3" start-immediately="false">
+                     <TimedActions seconds-time="0.0">
+                            <MoveCave duration="1.0">
+                                          <Relative/>
+                                   <Placement>
+                                          <RelativeTo>Center</RelativeTo>
+                                          <Position>(0, 0, -10)</Position>
+                                   </Placement>
+                            </MoveCave>
+                     </TimedActions>
+                     <TimedActions seconds-time="0">
+                            <GroupRef name="button_group_0_cp3">
+                                   <Transition duration="0">
+                                          <Visible>false</Visible>
+                                   </Transition>
+                            </GroupRef>
+                     </TimedActions>
+                     <TimedActions seconds-time="0.0">
+                            <ObjectChange name="light">
+                                   <Transition duration="1.0">
+                                          <MoveRel>
+                                                 <Placement>
+                                                        <RelativeTo>Center</RelativeTo>
+                                                        <Position>(0, 0, -10)</Position>
+                                                 </Placement>
+                                          </MoveRel>
+                                   </Transition>
+                            </ObjectChange>
+                     </TimedActions>
+                     <TimedActions seconds-time="0.0">
+                            <GroupRef name="button_group_0">
+                                   <Transition duration="0">
+                                          <MoveRel>
+                                                 <Placement>
+                                                        <RelativeTo>Center</RelativeTo>
+                                                        <Position>(0, 0, -10)</Position>
+                                                 </Placement>
+                                          </MoveRel>
+                                   </Transition>
+                            </GroupRef>
+                     </TimedActions>
+                     <TimedActions seconds-time="0.0">
+                            <GroupRef name="button_group_0_cp2">
+                                   <Transition duration="0">
+                                          <MoveRel>
+                                                 <Placement>
+                                                        <RelativeTo>Center</RelativeTo>
+                                                        <Position>(0, 0, -10)</Position>
+                                                 </Placement>
+                                          </MoveRel>
+                                   </Transition>
+                            </GroupRef>
+                     </TimedActions>
+                     <TimedActions seconds-time="0.0">
+                            <GroupRef name="button_group_0_cp3">
+                                   <Transition duration="0">
+                                          <MoveRel>
+                                                 <Placement>
+                                                        <RelativeTo>Center</RelativeTo>
+                                                        <Position>(0, 0, -10)</Position>
+                                                 </Placement>
+                                          </MoveRel>
+                                   </Transition>
+                            </GroupRef>
+                     </TimedActions>
+                     <TimedActions seconds-time="0.0">
+                            <GroupRef name="button_group_0_cp4">
+                                   <Transition duration="0">
+                                          <MoveRel>
+                                                 <Placement>
+                                                        <RelativeTo>Center</RelativeTo>
+                                                        <Position>(0, 0, -10)</Position>
+                                                 </Placement>
+                                          </MoveRel>
+                                   </Transition>
+                            </GroupRef>
+                     </TimedActions>
+                     <TimedActions seconds-time="0.0">
+                            <GroupRef name="button_group_0_cp5">
+                                   <Transition duration="0">
+                                          <MoveRel>
+                                                 <Placement>
+                                                        <RelativeTo>Center</RelativeTo>
+                                                        <Position>(0, 0, -10)</Position>
+                                                 </Placement>
+                                          </MoveRel>
+                                   </Transition>
+                            </GroupRef>
+                     </TimedActions>
+                     <TimedActions seconds-time="0.0">
+                            <GroupRef name="button_group_0_cp6">
+                                   <Transition duration="0">
+                                          <MoveRel>
+                                                 <Placement>
+                                                        <RelativeTo>Center</RelativeTo>
+                                                        <Position>(0, 0, -10)</Position>
+                                                 </Placement>
+                                          </MoveRel>
+                                   </Transition>
+                            </GroupRef>
+                     </TimedActions>
+                     <TimedActions seconds-time="0.0">
+                            <GroupRef name="button_group_0_cp7">
+                                   <Transition duration="0">
+                                          <MoveRel>
+                                                 <Placement>
+                                                        <RelativeTo>Center</RelativeTo>
+                                                        <Position>(0, 0, -10)</Position>
+                                                 </Placement>
+                                          </MoveRel>
+                                   </Transition>
+                            </GroupRef>
+                     </TimedActions>
+                     <TimedActions seconds-time="0.0">
+                            <GroupRef name="button_group_0_cp8">
+                                   <Transition duration="0">
+                                          <MoveRel>
+                                                 <Placement>
+                                                        <RelativeTo>Center</RelativeTo>
+                                                        <Position>(0, 0, -10)</Position>
+                                                 </Placement>
+                                          </MoveRel>
+                                   </Transition>
+                            </GroupRef>
+                     </TimedActions>
+                     <TimedActions seconds-time="0.0">
+                            <GroupRef name="button_group_0_cp9">
+                                   <Transition duration="0">
+                                          <MoveRel>
+                                                 <Placement>
+                                                        <RelativeTo>Center</RelativeTo>
+                                                        <Position>(0, 0, -10)</Position>
+                                                 </Placement>
+                                          </MoveRel>
+                                   </Transition>
+                            </GroupRef>
+                     </TimedActions>
+                     <TimedActions seconds-time="0.0">
+                            <GroupRef name="button_group_0_cp10">
+                                   <Transition duration="0">
+                                          <MoveRel>
+                                                 <Placement>
+                                                        <RelativeTo>Center</RelativeTo>
+                                                        <Position>(0, 0, -10)</Position>
+                                                 </Placement>
+                                          </MoveRel>
+                                   </Transition>
+                            </GroupRef>
+                     </TimedActions>
+                     <TimedActions seconds-time="1.0">
+                            <GroupRef name="button_group_0_cp4">
+                                   <Transition duration="0">
+                                          <Visible>true</Visible>
+                                   </Transition>
+                            </GroupRef>
+                     </TimedActions>
+              </Timeline>
+              <Timeline name="jumping4" start-immediately="false">
+                     <TimedActions seconds-time="0.0">
+                            <MoveCave duration="1.0">
+                                          <Relative/>
+                                   <Placement>
+                                          <RelativeTo>Center</RelativeTo>
+                                          <Position>(0, 5, 0)</Position>
+                                   </Placement>
+                            </MoveCave>
+                     </TimedActions>
+                     <TimedActions seconds-time="1.0">
+                            <MoveCave duration="1.0">
+                                          <Relative/>
+                                   <Placement>
+                                          <RelativeTo>Center</RelativeTo>
+                                          <Position>(0, -5, 0)</Position>
+                                   </Placement>
+                            </MoveCave>
+                     </TimedActions>
+                     <TimedActions seconds-time="1.0">
+                            <ObjectChange name="box">
+                                   <Transition duration="0">
+                                          <Visible>true</Visible>
+                                   </Transition>
+                            </ObjectChange>
+                     </TimedActions>
+                     <TimedActions seconds-time="6.0">
+                            <ObjectChange name="box">
+                                   <Transition duration="0">
+                                          <Visible>false</Visible>
+                                   </Transition>
+                            </ObjectChange>
+                     </TimedActions>
+                     <TimedActions seconds-time="0">
+                            <GroupRef name="button_group_0_cp3">
+                                   <Transition duration="0">
+                                          <Visible>false</Visible>
+                                   </Transition>
+                            </GroupRef>
+                     </TimedActions>
+                     <TimedActions seconds-time="2.0">
+                            <GroupRef name="button_group_0_cp3">
+                                   <Transition duration="0">
+                                          <Visible>true</Visible>
+                                   </Transition>
+                            </GroupRef>
+                     </TimedActions>
+              </Timeline>
+       </TimelineRoot>
+       <PlacementRoot>
+              <Placement name="Center">
+                     <RelativeTo>Center</RelativeTo>
+                     <Position>(0.0, 0.0, 0.0)</Position>
+                            <Axis rotation="(0.0, 1.0, 0.0)" angle="0.0"/>
+              </Placement>
+              <Placement name="FrontWall">
+                     <RelativeTo>Center</RelativeTo>
+                     <Position>(0.0, 0.0, -4.0)</Position>
+                            <LookAt target="(0.0, 0.0, 0.0)" up="(0.0, 1.0, 0.0)"/>
+              </Placement>
+              <Placement name="LeftWall">
+                     <RelativeTo>Center</RelativeTo>
+                     <Position>(-4.0, 0.0, 0.0)</Position>
+                            <LookAt target="(0.0, 0.0, 0.0)" up="(0.0, 1.0, 0.0)"/>
+              </Placement>
+              <Placement name="RightWall">
+                     <RelativeTo>Center</RelativeTo>
+                     <Position>(4.0, 0.0, 0.0)</Position>
+                            <LookAt target="(0.0, 0.0, 0.0)" up="(0.0, 1.0, 0.0)"/>
+              </Placement>
+              <Placement name="FloorWall">
+                     <RelativeTo>Center</RelativeTo>
+                     <Position>(0.0, -4.0, 0.0)</Position>
+                            <LookAt target="(0.0, 0.0, 0.0)" up="(0.0, 0.0, -1.0)"/>
+              </Placement>
+       </PlacementRoot>
+       <ParticleActionRoot>
+              <ParticleActionList name="listtt">
+                     <Source rate="1">
+                            <ParticleDomain>
+                                   <Point point="(0, 0, 0)"/>
+                            </ParticleDomain>
+                     </Source>
+                     <Vel>
+                            <ParticleDomain>
+                                   <Cylinder p1="(0, 0, 0)" p2="(0, 0.5, 0)" radius="0.1" radius-inner="0"/>
+                            </ParticleDomain>
+                     </Vel>
+                     <ParticleAction>
+                            <Gravity direction="(0, -0.06, 0)"/>
+                     </ParticleAction>
+                     <ParticleAction>
+                            <Bounce friction="1" resilience="0.6" cutoff="1.0">
+                                   <ParticleDomain>
+                                          <Plane point="(0, -12, 0)" normal="(0, 1.0, 0)"/>
+                                   </ParticleDomain>
+                            </Bounce>
+                     </ParticleAction>
+                     <RemoveCondition>
+                            <Age age="150" younger-than="false"/>
+                     </RemoveCondition>
+              </ParticleActionList>
+       </ParticleActionRoot>
+       <Global>
+              <CameraPos far-clip="100.0">
+                     <Placement>
+                            <RelativeTo>Center</RelativeTo>
+                            <Position>(0, 1, 6)</Position>
+                     </Placement>
+              </CameraPos>
+              <CaveCameraPos far-clip="100.0">
+                     <Placement>
+                            <RelativeTo>Center</RelativeTo>
+                            <Position>(0, 1, 6)</Position>
+                     </Placement>
+              </CaveCameraPos>
+              <Background color="92, 148, 252"/>
+              <WandNavigation allow-rotation="false" allow-movement="false"/>
+       </Global>
+</Story>

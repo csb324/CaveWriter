@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?jaxfront version=2.1;time=2014-10-28 12:48:45.961;xui=jar:file:/Users/clarabeyer/Documents/fall14/CaveWriting/CWEditor.jar!/schema/caveschema.xui;xsd=caveschema.xsd?>
+<Story version="8" last_xpath="/Story
+">
+       <ObjectRoot>
+              <Object name="dirt_0">
+                     <Visible>true</Visible>
+                     <Color>200,76,12</Color>
+                     <Lighting>false</Lighting>
+                     <ClickThrough>true</ClickThrough>
+                     <AroundSelfAxis>false</AroundSelfAxis>
+                     <Scale>100</Scale>
+                     <Placement>
+                            <RelativeTo>Center</RelativeTo>
+                            <Position>(0, -6, 0)</Position>
+                     </Placement>
+                     <Content>
+                            <Text horiz-align="center" vert-align="center" font="Courier.ttf" depth="308">
+                                   <text>-</text>
+                            </Text>
+                     </Content>
+              </Object>
+              <Object name="button0">
+                     <Visible>true</Visible>
+                     <Color>255, 255, 255</Color>
+                     <Lighting>false</Lighting>
+                     <ClickThrough>true</ClickThrough>
+                     <AroundSelfAxis>false</AroundSelfAxis>
+                     <Scale>1</Scale>
+                     <Placement>
+                            <RelativeTo>Center</RelativeTo>
+                            <Position>(1, 0, -4)</Position>
+                     </Placement>
+                     <Content>
+                            <Text horiz-align="center" vert-align="center" font="PressStart2P.ttf" depth="1">
+                                   <text>jump</text>
+                            </Text>
+                     </Content>
+                     <LinkRoot>
+                            <Link>
+                                   <Enabled>true</Enabled>
+                                   <RemainEnabled>true</RemainEnabled>
+                                   <EnabledColor>255, 255, 255</EnabledColor>
+                                   <SelectedColor>255, 255, 255</SelectedColor>
+                                   <Actions>
+                                                 <TimerChange name="jumping0">
+                                                        <start/>
+                                                 </TimerChange>
+                                          <Clicks>
+                                                 <Any/>
+                                          </Clicks>
+                                   </Actions>
+                            </Link>
+                     </LinkRoot>
+              </Object>
+              <Object name="bricks_1">
+                     <Visible>true</Visible>
+                     <Color>204,74,33</Color>
+                     <Lighting>false</Lighting>
+                     <ClickThrough>true</ClickThrough>
+                     <AroundSelfAxis>false</AroundSelfAxis>
+                     <Scale>10</Scale>
+                     <Placement>
+                            <RelativeTo>Center</RelativeTo>
+                            <Position>(0, 3, -30)</Position>
+                     </Placement>
+                     <Content>
+                            <Text horiz-align="center" vert-align="center" font="Wingdings.ttf" depth="44">
+                                   <text>x</text>
+                            </Text>
+                     </Content>
+              </Object>
+       </ObjectRoot>
+       <TimelineRoot>
+              <Timeline name="initial" start-immediately="true"></Timeline>
+              <Timeline name="jumping0" start-immediately="false">
+                     <TimedActions seconds-time="0.0">
+                            <MoveCave duration="1.0">
+                                          <Relative/>
+                                   <Placement>
+                                          <RelativeTo>Center</RelativeTo>
+                                          <Position>(0, 3, 0)</Position>
+                                   </Placement>
+                            </MoveCave>
+                     </TimedActions>
+                     <TimedActions seconds-time="1.0">
+                            <MoveCave duration="1.0">
+                                          <Relative/>
+                                   <Placement>
+                                          <RelativeTo>Center</RelativeTo>
+                                          <Position>(0, -3, 0)</Position>
+                                   </Placement>
+                            </MoveCave>
+                     </TimedActions>
+              </Timeline>
+       </TimelineRoot>
+       <PlacementRoot>
+              <Placement name="Center">
+                     <RelativeTo>Center</RelativeTo>
+                     <Position>(0.0, 0.0, 0.0)</Position>
+                            <Axis rotation="(0.0, 1.0, 0.0)" angle="0.0"/>
+              </Placement>
+              <Placement name="FrontWall">
+                     <RelativeTo>Center</RelativeTo>
+                     <Position>(0.0, 0.0, -4.0)</Position>
+                            <LookAt target="(0.0, 0.0, 0.0)" up="(0.0, 1.0, 0.0)"/>
+              </Placement>
+              <Placement name="LeftWall">
+                     <RelativeTo>Center</RelativeTo>
+                     <Position>(-4.0, 0.0, 0.0)</Position>
+                            <LookAt target="(0.0, 0.0, 0.0)" up="(0.0, 1.0, 0.0)"/>
+              </Placement>
+              <Placement name="RightWall">
+                     <RelativeTo>Center</RelativeTo>
+                     <Position>(4.0, 0.0, 0.0)</Position>
+                            <LookAt target="(0.0, 0.0, 0.0)" up="(0.0, 1.0, 0.0)"/>
+              </Placement>
+              <Placement name="FloorWall">
+                     <RelativeTo>Center</RelativeTo>
+                     <Position>(0.0, -4.0, 0.0)</Position>
+                            <LookAt target="(0.0, 0.0, 0.0)" up="(0.0, 0.0, -1.0)"/>
+              </Placement>
+       </PlacementRoot>
+       <Global>
+              <CameraPos far-clip="100.0">
+                     <Placement>
+                            <RelativeTo>Center</RelativeTo>
+                            <Position>(0.0, 0.0, 6.0)</Position>
+                     </Placement>
+              </CameraPos>
+              <CaveCameraPos far-clip="100.0">
+                     <Placement>
+                            <RelativeTo>Center</RelativeTo>
+                            <Position>(0.0, 0.0, 0.0)</Position>
+                     </Placement>
+              </CaveCameraPos>
+              <Background color="92, 148, 252"/>
+              <WandNavigation allow-rotation="false" allow-movement="false"/>
+       </Global>
+</Story>
